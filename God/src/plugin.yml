@@ -1,0 +1,7 @@
+name: God
+author: FatJack
+main: me.FatJack.God.Main
+version: 1.0
+ 
+commands:
+  God: 
